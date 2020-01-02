@@ -1,0 +1,5 @@
+﻿Types of Data,,Quicksort,Heapsort,Mergesort,Pythonsort,Numpysort
+Sorted,,,9.8624665,6.4600214,0.1269479,0.2474093
+Reversed,,,9.4749675,6.7523261,0.1283044,0.2705957
+Random,,10.2048009,23.6845368,13.2760539,0.7630761,0.08178002
+Identical,,4.92E-07,1.15E-06,4.07E-07,3.95E-07,3.09E-06
